@@ -1,0 +1,496 @@
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+8 habitable planets found!
+Listing on port 8001
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+8 habitable planets found!
+Listing on port 8001
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+8 habitable planets found!
+Listing on port 8001
+::1 - GET /upcoming HTTP/1.1 304 - - 12.865 ms
+::1 - GET /static/js/main.a6d7ec91.js HTTP/1.1 304 - - 2.105 ms
+::1 - GET /sound/click.mp3 HTTP/1.1 304 - - 6.038 ms
+::1 - GET /sound/typing.mp3 HTTP/1.1 304 - - 6.179 ms
+::1 - GET /sound/deploy.mp3 HTTP/1.1 304 - - 4.090 ms
+::1 - GET /sound/success.mp3 HTTP/1.1 304 - - 12.738 ms
+::1 - GET /sound/warning.mp3 HTTP/1.1 304 - - 12.836 ms
+::1 - GET /sound/abort.mp3 HTTP/1.1 304 - - 2.424 ms
+::1 - GET /img/glow.png HTTP/1.1 304 - - 2.126 ms
+::1 - GET /img/background-large.jpg HTTP/1.1 304 - - 4.568 ms
+::1 - GET /planets HTTP/1.1 304 - - 8.668 ms
+::1 - GET /launches HTTP/1.1 304 - - 12.072 ms
+::1 - GET /favicon.png HTTP/1.1 304 - - 1.711 ms
+::1 - GET /favicon.png HTTP/1.1 304 - - 2.871 ms
+::1 - GET /manifest.json HTTP/1.1 304 - - 2.144 ms
+::1 - GET /upcoming HTTP/1.1 304 - - 3.977 ms
+::1 - GET /static/js/main.a6d7ec91.js HTTP/1.1 304 - - 1.156 ms
+::1 - GET /sound/click.mp3 HTTP/1.1 304 - - 3.380 ms
+::1 - GET /sound/success.mp3 HTTP/1.1 304 - - 1.637 ms
+::1 - GET /sound/typing.mp3 HTTP/1.1 304 - - 4.941 ms
+::1 - GET /sound/deploy.mp3 HTTP/1.1 304 - - 7.147 ms
+::1 - GET /sound/abort.mp3 HTTP/1.1 304 - - 6.701 ms
+::1 - GET /sound/warning.mp3 HTTP/1.1 304 - - 5.503 ms
+::1 - GET /planets HTTP/1.1 304 - - 1.798 ms
+::1 - GET /img/background-large.jpg HTTP/1.1 304 - - 3.710 ms
+::1 - GET /img/glow.png HTTP/1.1 304 - - 4.426 ms
+::1 - GET /launches HTTP/1.1 304 - - 6.417 ms
+::1 - GET /favicon.png HTTP/1.1 304 - - 1.167 ms
+::1 - GET /manifest.json HTTP/1.1 304 - - 1.274 ms
+::1 - GET /favicon.png HTTP/1.1 304 - - 2.423 ms
+::1 - POST /launches HTTP/1.1 201 187 - 38.146 ms
+::1 - GET /launches HTTP/1.1 200 358 - 1.739 ms
+Error: queryTxt ESERVFAIL nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+  errno: undefined,
+  code: 'ESERVFAIL',
+  syscall: 'queryTxt',
+  hostname: 'nasa-api-cluster-1.s921z9x.mongodb.net'
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: queryTxt ESERVFAIL nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+Error: queryTxt ESERVFAIL nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+  errno: undefined,
+  code: 'ESERVFAIL',
+  syscall: 'queryTxt',
+  hostname: 'nasa-api-cluster-1.s921z9x.mongodb.net'
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: queryTxt ESERVFAIL nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+Error: querySrv ESERVFAIL _mongodb._tcp.nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+  errno: undefined,
+  code: 'ESERVFAIL',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.nasa-api-cluster-1.s921z9x.mongodb.net'
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: querySrv ESERVFAIL _mongodb._tcp.nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+Error: querySrv ESERVFAIL _mongodb._tcp.nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+  errno: undefined,
+  code: 'ESERVFAIL',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.nasa-api-cluster-1.s921z9x.mongodb.net'
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: querySrv ESERVFAIL _mongodb._tcp.nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+Error: queryTxt ESERVFAIL nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17) {
+  errno: undefined,
+  code: 'ESERVFAIL',
+  syscall: 'queryTxt',
+  hostname: 'nasa-api-cluster-1.s921z9x.mongodb.net'
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+Error: queryTxt ESERVFAIL nasa-api-cluster-1.s921z9x.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseError: Operation `launches.updateOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:185:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+MongoServerSelectionError: read ECONNRESET
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-bhn8x7b-shard-00-02.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-00.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-01.s921z9x.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-v1rylh-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+MongoServerSelectionError: read ECONNRESET
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-bhn8x7b-shard-00-01.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-02.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-00.s921z9x.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-v1rylh-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:730:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startServer (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\src\server.js:20:3)
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:730:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startServer (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\src\server.js:20:3)
+MongoServerSelectionError: read ECONNRESET
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-bhn8x7b-shard-00-02.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-00.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-01.s921z9x.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-v1rylh-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:730:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startServer (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\src\server.js:20:3)
+MongoServerSelectionError: read ECONNRESET
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-bhn8x7b-shard-00-02.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-00.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-01.s921z9x.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-v1rylh-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:730:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processTimers (node:internal/timers:504:9)
+    at async startServer (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\src\server.js:20:3)
+MongoServerSelectionError: read ECONNRESET
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-bhn8x7b-shard-00-00.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-01.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-02.s921z9x.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-v1rylh-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:730:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startServer (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\src\server.js:20:3)
+MongoServerSelectionError: read ECONNRESET
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-bhn8x7b-shard-00-01.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-02.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-00.s921z9x.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-v1rylh-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:730:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startServer (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\src\server.js:20:3)
+MongoServerSelectionError: read ECONNRESET
+    at Timeout._onTimeout (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-bhn8x7b-shard-00-02.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-00.s921z9x.mongodb.net:27017' => [ServerDescription],
+      'ac-bhn8x7b-shard-00-01.s921z9x.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-v1rylh-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+    at _handleConnectionErrors (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\node_modules\mongoose\lib\connection.js:730:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async startServer (C:\Users\ASUS\Desktop\NASA Fullstack Project\server\src\server.js:20:3)
+mongoDB connection ready
+mongoDB connection ready
+mongoDB connection ready
+mongoDB connection ready
+mongoDB connection ready
+mongoDB connection ready
+mongoDB connection ready
+mongoDB connection ready
+8 habitable planets found!
+mongoDB connection ready
+mongoDB connection ready
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+Launches already loaded
+Listing on port 8001
+mongoDB connection ready
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+mongoDB connection ready
+8 habitable planets found!
+Launches already loaded
+Listing on port 8001
+::1 - GET /v1/planets HTTP/1.1 200 583 - 205.757 ms
+::1 - GET /v1/launches HTTP/1.1 200 26360 - 10526.538 ms
+::1 - DELETE /v1/launches/188 HTTP/1.1 200 116 - 3226.757 ms
+::1 - DELETE /v1/launches/188 HTTP/1.1 400 40 - 2209.956 ms
+::1 - DELETE /v1/launches/188 HTTP/1.1 400 40 - 2122.405 ms
+::1 - DELETE /v1/launches/189 HTTP/1.1 200 116 - 2078.875 ms
+::1 - DELETE /v1/launches/191 HTTP/1.1 200 116 - 3633.200 ms
+::1 - DELETE /v1/launches/188 HTTP/1.1 400 40 - 1622.024 ms
+::1 - GET /v1/launches HTTP/1.1 200 26364 - 15867.056 ms
+::1 - DELETE /v1/launches/191 HTTP/1.1 400 40 - 1603.201 ms
+::1 - GET /v1/launches HTTP/1.1 200 26366 - 6789.039 ms
+::1 - DELETE /v1/launches/192 HTTP/1.1 200 116 - 1729.446 ms
+::1 - DELETE /v1/launches/192 HTTP/1.1 400 40 - 1030.562 ms
+::1 - GET /v1/launches HTTP/1.1 304 - - 10561.222 ms
+::1 - GET /v1/launches HTTP/1.1 200 26368 - 4464.575 ms
+::1 - GET /v1/launches?limit%20=1 HTTP/1.1 200 26368 - 2638.350 ms
+::1 - GET /v1/launches?limit=1 HTTP/1.1 200 26368 - 4653.415 ms
+::1 - GET /v1/launches?limit=1 HTTP/1.1 200 26368 - 3475.512 ms
